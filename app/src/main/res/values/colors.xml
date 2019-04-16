@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#884141</color>
+    <color name="colorPrimaryDark">#FFFFFF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="grey">#B3B3B3</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="togglebar">#884141</color>
+</resources>
